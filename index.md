@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Портфолио студента ИВТ Ханова Дмитрия Сергеевича
 
-You can use the [editor on GitHub](https://github.com/KhanovDmitrii/exam/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 1 семестр 
+--------------
 
-### Markdown
+* [Информатика](https://drive.google.com/drive/folders/1FHo-twFh4PSnGdrPHscFeIZp1LKfN-lH?usp=sharing)
+* [ИТ в математике](https://drive.google.com/drive/folders/1AJW83CdU-14avmyzX2nyWQSidCIpbRY_?usp=sharing)
+* [ИТ в физике](https://drive.google.com/drive/folders/1skoE0Oz9-zrv03qxQQ36oHxJ7P99-EN4?usp=sharing)
+* [Философия](https://drive.google.com/drive/folders/13uayibUKrt4h0EXfy5CCa2hsdxhEMJmS?usp=sharing)
+* [БЖД](https://drive.google.com/drive/folders/11oyW8fNOqxSA-YG0A_sxM5TAt0QKm-Y0?usp=sharing)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### 2 семестр 
+--------------
+* [Математика](https://drive.google.com/drive/folders/1bpPg5nJ4f9MJaD1d3Qjhg-ytoM_EBkee?usp=sharing)
+* [ЭВМ](https://drive.google.com/drive/folders/1ewa6GJXu1Qfgf1BtZY_OpV17Bj4Q0KgG?usp=sharing)
+* [Программирование](https://drive.google.com/drive/folders/1mCxikEJ_4iaAMfzxBwnMqa2dQ7V_CvqJ?usp=sharing)
+* [ИТ](https://drive.google.com/drive/folders/1NP2pubU6zU2uNlru2lNiBEmmog9NHE1P?usp=sharing)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KhanovDmitrii/exam/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 3 семестр 
+--------------
+* [Основы компьютерной графики](https://drive.google.com/drive/folders/1SPWVF_1zxallnP8XCkf8ciA-swlkt8GR?usp=sharing)
+* [Операционные системы](https://drive.google.com/drive/folders/103JlV2C7XbgI_9EYJd5flPrp8MNrKNcV?usp=sharing)
+* [Основы бизнес информатики](https://drive.google.com/drive/folders/13WqyPCBF7QQoGVe7jnVijQPa1C629UIA?usp=sharing)
+* [Вычислительная математика](https://drive.google.com/drive/folders/1XeY4v-vpo8jot1XYf2zqebilTb7CfK5h?usp=sharing)
+* [Анализ данных](https://drive.google.com/drive/folders/1XeY4v-vpo8jot1XYf2zqebilTb7CfK5h?usp=sharing)
