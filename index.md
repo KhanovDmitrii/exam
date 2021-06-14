@@ -25,3 +25,43 @@
 * [Основы бизнес информатики](https://drive.google.com/drive/folders/13WqyPCBF7QQoGVe7jnVijQPa1C629UIA?usp=sharing)
 * [Вычислительная математика](https://drive.google.com/drive/folders/1XeY4v-vpo8jot1XYf2zqebilTb7CfK5h?usp=sharing)
 * [Анализ данных](https://drive.google.com/drive/folders/1XeY4v-vpo8jot1XYf2zqebilTb7CfK5h?usp=sharing)
+
+### 4 семестр 
+--------------
+* [ИТ в решении задач оптимизации](https://drive.google.com/drive/folders/1TCTNApTbNvtwyJM-BqDqNF2tsz7OXI3_?usp=sharing)
+* [Базы данных](https://drive.google.com/drive/folders/1wkrHhr7jPLU_x6klJ3dzF8GfDTik-4-w?usp=sharing)
+* [Компьютерная алгебра](https://drive.google.com/drive/folders/1Qk9nvYT8vj1RHW7iKa2yzT1gG5FyTcRU?usp=sharing)
+* [Технологии компьютерного моделирования](https://drive.google.com/drive/folders/1lFw5BoKnk-vLJ8GyjIcvaSUgWe9mFOi_?usp=sharing)
+* [Деловое общение](https://drive.google.com/drive/folders/1H48s1UyygPo2KY-YlB2Vi40JVPVw0Hcp?usp=sharing)
+
+### 5 семестр 
+--------------
+* [Техника и технологии представления и публикации информации](https://drive.google.com/drive/folders/1veDP4dkSZ57BKUyaN-_TJZL4h8lBPmkA?usp=sharing)
+* [УПП](https://drive.google.com/drive/folders/1Yu_tBupTG1yaOHbhmJhmvRhhRFofzNgD?usp=sharing)
+* [Интегрированные издательские системы и технологии](https://drive.google.com/drive/folders/1sbL1V7U3RuJxZiFAiQTv0L3jIhdXv4jx?usp=sharing)
+* [Информационные технологии в экономике и управлении](https://drive.google.com/drive/folders/1BL5bKDSfdZcUYaNgJ7nIS8Y6l8oDYHKy?usp=sharing)
+* [Сети и телекоммуникации](https://drive.google.com/drive/folders/1xiEey1N1PEbfjXtzV_mjp4gCv1DLAohl?usp=sharing)
+* [Курсовая УПП](https://drive.google.com/drive/folders/1ROtQ-CwKrF9Gg2-lD_CUpiIhfgyTvJxm?usp=sharing)
+### 6 семестр 
+--------------
+* [Электротехника, электроника и схемотехника](https://drive.google.com/drive/folders/138n1VxREYPd1BY92YP8DMEfpLzbu5s_N?usp=sharing)
+* [Экология](https://drive.google.com/drive/folders/1YXZ98JZxIYghy5Ih2_eyN1NA7PS3rk2X?usp=sharing)
+* [Правоведение](https://drive.google.com/drive/folders/1Qit_nUmKeyX5VYb2XtOzcw7_KSHGdGlq?usp=sharing)
+* [Информационные технологии и системы бизнес-аналитики](https://drive.google.com/drive/folders/18E2KzeaNR_CBx4_ylUdXzYSecd9wmR-8?usp=sharing)
+* [Защита информации](https://drive.google.com/drive/folders/1ijFVRMpvkz2bW-KUMpbhM_QYU4ww7DMU?usp=sharing)
+* [Инженерная и компьютерная графика](https://github.com/KhanovDmitrii/graphics_khanov)
+* [Программирование](https://github.com/KhanovDmitrii/khanovprog)
+* [Информационные технологии в профессиональной деятельности](https://drive.google.com/drive/folders/1SKCk8NJP1OQCONcPc162YkuVA6STau4j?usp=sharing)
+
+### 7 семестр 
+--------------
+* [Программирование](https://replit.com/repls/folder/%D0%9F%D0%A0%D0%9E%D0%93-7%20%D0%98%D0%A1%D0%A0)
+* [Организация электронной образовательной среды](https://github.com/KhanovDmitrii/week6)
+* [Курсовая работа]()
+
+### 8 семестр 
+--------------
+* [T-рекрутмент](https://drive.google.com/drive/folders/1jAKvOJVRQzo1fckjlw6Zz8KEN4wx_IbQ?usp=sharing)
+* [Информационные технологии оценки персонала](https://drive.google.com/drive/folders/1VsCTedVIHbF6JN1rLWNMuCb-pgw7XITA?usp=sharing)
+* [Социальные вопросы информатики](https://drive.google.com/drive/folders/1kxfSriq1TBRUpw9Zh6DegzsGllLbF8X5?usp=sharing)
+* [МИРЦБ](https://drive.google.com/drive/folders/1dqE2Tt_O9UCm--cOFg7uZYASeZnFBT5j?usp=sharing)
